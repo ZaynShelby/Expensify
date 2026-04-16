@@ -1,6 +1,6 @@
 # expensify
 
-A new Flutter project.
+This app will track your Expenses. 
 
 ## Getting Started
 
